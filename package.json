@@ -1,0 +1,26 @@
+{
+  "name": "sturdy-umbrella",
+  "version": "1.0.0",
+  "description": "node practice app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1s-0s/sturdy-umbrella.git"
+  },
+  "author": "senpai and samriddhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1s-0s/sturdy-umbrella/issues"
+  },
+  "homepage": "https://github.com/1s-0s/sturdy-umbrella#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "path": "^0.12.7"
+  }
+}
